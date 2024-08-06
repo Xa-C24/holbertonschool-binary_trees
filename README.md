@@ -168,7 +168,8 @@ _Table of Contents:
 
 
 
-						![Diagramme](Binary_Tree.png)
+					![Binary Tree v1  drawio drawio](https://github.com/user-attachments/assets/d552d382-3904-4512-acd0-b65cf656796e)
+
 
 
 7_Advantages and Disadvantages
