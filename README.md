@@ -9,8 +9,8 @@ Arbres Binaires (Binary Trees)
 	_Jean-Paul : . Creat binary_trees.h file 
 				 . Code the even tasks
 
-	_Xavier	:	 . Creat README.md
-				 . Code the odd tasks
+	_Xavier	:	. Creat README.md
+			. Code the odd tasks
 
 
 _Table of Contents:
