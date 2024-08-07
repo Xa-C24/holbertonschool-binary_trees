@@ -74,14 +74,14 @@ _Table of Contents:
 		 
 				 1
    				/ \
-  			   2   3
+  			       2   3
 				/ \
-			   4   5          	A binary tree where each node has at most two children (left and right).
+			       4   5          		A binary tree where each node has at most two children (left and right).
 
 		
 		_2 Arbre Binaire Complet
 
-				 1
+			     1
  			    / \
  			   2   3
 			  / \  /
@@ -90,8 +90,8 @@ _Table of Contents:
 		
 		3_Perfect Binary Tree
 
-				 1
-   				/ \
+			     1
+   			    / \
  			   2   3
  			  / \ / \
 			 4  5 6  7			All levels are completely filled.
@@ -99,16 +99,16 @@ _Table of Contents:
 		
 		4_Binary Search Tree
 
-		 		4
+		 	4
    		       / \
-  	   	      2   6				For each node, all values ​​in the left subtree are less than the node's value, 
+  	   	      2   6			For each node, all values ​​in the left subtree are less than the node's value, 
 	  	     / \ / \			and all values ​​in the right subtree are greater. 
-	        1  3 5  7				
+	            1  3 5  7				
 
 		
 		5_Balanced Binary Tree
 
-		 		3
+		 	    3
    			   / \	
    			  2   5				The height difference between the left and right subtrees
 			 /   / \			of each node does not exceed 1.
@@ -120,44 +120,45 @@ _Table of Contents:
 			1
  			 \
   			  2
-  		       \				Each parent node has only one child, resembling a linked list.
-    		 	3
-      			 \
-      			  4
+  		           \				Each parent node has only one child, resembling a linked list.
+    		    3
+      		     \
+      		      4
 
 
 		7_Binary Heap
 
-			10
+		    10
    		   /  \
   		  9    8				A complete binary tree where each node is superior (or inferior) to its children.
  		 / \  / \
-	    7  6 5  4
+	        7  6 5  4
 
 	
 		8_Expression Tree
 			
-			 +
+		     +
   		    / \
   		   *   3				Used to represent mathematical or logical expressions.
-      		/ \
+      	    / \
 		   2   1
 
 		9_Huffman tree
 
-			 *					Used in data compression.
-     		/ \
-    	   *   c				Represents a Huffman tree for the characters `a`, `b`, and `c` 
-   		    / \					with respective frequencies.
-   		    / \					
- 		   a   b
+			 *				Used in data compression.
+     	        / \
+    	       *   c				Represents a Huffman tree for the characters `a`, `b`, and `c` 
+   		        / \				 with respective frequencies.
+   		      a    b					
+   		       					
+ 		 
 
 		10_Binary Decision Tree
  
- 			Est-ce un mammifère?
+ 		       Est-ce un mammifère?
      		  /         \	
-   			Oui           Non				Used in machine learning for classification and decision-making.
-		    /               \
+   			Oui           Non			Used in machine learning for classification and decision-making.
+		        /               \
 		Est-ce un chat?  Est-ce un oiseau?
  		  /     \           /      \
 		Oui    Non       Oui      Non
