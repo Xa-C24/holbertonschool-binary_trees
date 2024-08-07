@@ -6,8 +6,8 @@ Arbres Binaires (Binary Trees)
 
 	To begin with, we decided to devide the work:
 
-	_Jean-Paul : . Creat binary_trees.h file 
-				 . Code the even tasks
+	_Jean-Paul : 	. Creat binary_trees.h file 
+			. Code the even tasks
 
 	_Xavier	:	. Creat README.md
 			. Code the odd tasks
