@@ -168,7 +168,7 @@ _Table of Contents:
 				The choice of tree type depends on the specific needs of the application or problem to be solved.
 
 
-![Binary Tree v1  drawio drawio](https://files.slack.com/files-pri/T0423U1MW21-F07FN5SB3CP/binary_tree.v1_.drawio.drawio.png)
+![Binary Tree v1  drawio drawio](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Arbre_binaire_ordonne.svg/1024px-Arbre_binaire_ordonne.svg.png)
 
 
 
