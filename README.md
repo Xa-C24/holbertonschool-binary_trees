@@ -169,7 +169,7 @@ _Table of Contents:
 
 
 
-					![Binary Tree v1  drawio drawio](https://github.com/user-attachments/assets/d552d382-3904-4512-acd0-b65cf656796e)
+					![Binary Tree v1  drawio drawio](https://files.slack.com/files-pri/T0423U1MW21-F07FN5SB3CP/binary_tree.v1_.drawio.drawio.png)
 
 
 
