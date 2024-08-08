@@ -168,7 +168,7 @@ _Table of Contents:
 				The choice of tree type depends on the specific needs of the application or problem to be solved.
 
 
-![Binary Tree.v1 ](https://files.slack.com/files-pri/T0423U1MW21-F07FZV0NPQD/binary_tree.v1_.png)
+![Binary Tree.v1 ](https://media.discordapp.net/attachments/385020139839422464/1271076611592294502/image.p[…]77dae&=&format=webp&quality=lossless&width=1155&height=994)
 
 
 
